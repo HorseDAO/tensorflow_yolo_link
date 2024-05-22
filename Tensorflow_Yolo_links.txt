@@ -13,3 +13,15 @@ https://github.com/ClusterH/tensorflow_package_2
 
 // This one is tensorflow source code
 https://github.com/ClusterH/tensorflow_source
+
+// Google Driver links
+Tensorflow:
+https://drive.google.com/file/d/1_I52lnboMqp_Xla9VH_xqsMlcSYSMtZ2/view?usp=sharing
+
+https://drive.google.com/file/d/1Vk9k_YJN2Cwge0l8sTnjo8Y2M9kr5_46/view?usp=sharing
+
+
+Yolo:
+https://drive.google.com/file/d/19AbVXkI9k1vEisErC6Ai5bLcs1vAEqNa/view?usp=sharing
+
+https://drive.google.com/file/d/1wICC38YFYBe3dRSanGEC1LZXIDgjo94E/view?usp=sharing
